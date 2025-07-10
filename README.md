@@ -1,3 +1,3 @@
 # library.co
 
-To create reusable libaray & publish
+MVP in progress: Creating reusable libaray & publish
