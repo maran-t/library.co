@@ -1,0 +1,15 @@
+{
+    "name": "@maran-t/reuse.js",
+    "version": "1.0.2",
+    "description": "Reusable JavaScript utility for saying Hello",
+    "main": "src/index.js",
+    "scripts": {
+      "start": "node src/index.js"
+    },
+    "keywords": ["hello", "world", "reuse.js", "npm", "js"],
+    "author": "maran-t",
+    "license": "MIT",
+    "publishConfig": {
+      "registry": "https://npm.pkg.github.com/"
+    }
+  }
